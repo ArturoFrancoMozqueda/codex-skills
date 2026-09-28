@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kova Instagram Outreach"
+  short_description: "Personaliza y ejecuta prospección de Kova"
+  default_prompt: "Usa $kova-instagram-outreach para preparar o ejecutar la siguiente ronda de mensajes personalizados desde mi Instagram."
